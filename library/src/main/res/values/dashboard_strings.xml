@@ -38,7 +38,7 @@
     <string name="wallpaper_apply_cancelled">Wallpaper apply cancelled</string>
     <string name="connection_failed">Unable to fetch data from server</string>
     <string name="wallpaper_apply">Set as Wallpaper</string>
-    <string name="wallpaper_apply_scroll">Wallpaper scroll will forced to enable if you apply from this option</string>
+    <string name="wallpaper_apply_scroll">Wallpaper scroll will be forced enabled if you apply from here.</string>
 
     <string name="wallpaper_scroll_enable">Enable Wallpaper Scroll</string>
     <string name="wallpaper_scroll_enable_desc">Dashboard will apply wallpaper based on original resolution
@@ -127,7 +127,7 @@
     <string name="about_dashboard_dev_github_url">https://github.com/danimahardhika</string>
 
     <!-- Splash screen -->
-    <string name="splash_screen_title">Wallpaper Board</string>
+    <string name="splash_screen_title">powered by steel.graphics</string>
 
     <!-- DrawerToggle -->
     <string name="txt_open">Open</string>
